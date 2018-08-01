@@ -1,0 +1,21 @@
+
+#dog {
+  font-family:"font1";
+  color:#13d87c;
+
+}
+body{
+  text-align: center;
+  font-family: "font1";
+  font-size: 20px;
+}
+@font-face {
+  font-family: font1;
+  src=url"font1.ttf"
+}
+h2{
+  color:#309996;
+}
+h3{
+  font-family:"comic sans ms";
+}
